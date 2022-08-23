@@ -12,4 +12,4 @@
 
 | Файл | Ссылка |
 | --- | --- |
-| Data Source | [Kaggle](https://www.kaggle.com/datasets/syedjaferk/top-200-youtubers-cleaned)|
+| Data Source | [Kaggle (Top 200 Youtubers Data (cleaned))](https://www.kaggle.com/datasets/syedjaferk/top-200-youtubers-cleaned)|
