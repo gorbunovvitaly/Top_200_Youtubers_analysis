@@ -9,4 +9,7 @@
 
 
 ## Навигация по проекту
+
+| Файл | Ссылка |
+| --- | --- |
 | Data Source | [Kaggle](https://www.kaggle.com/datasets/syedjaferk/top-200-youtubers-cleaned)|
