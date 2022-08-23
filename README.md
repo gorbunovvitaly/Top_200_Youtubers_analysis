@@ -12,4 +12,5 @@
 
 | Файл | Ссылка |
 | --- | --- |
+| Jupyter Notebook | [Ссылка на Notebook](https://github.com/gorbunovvitaly/Top_200_Youtubers_analysis/blob/main/EDA%20Top%20200%20Youtubers.ipynb)
 | Data Source | [Kaggle (Top 200 Youtubers Data (cleaned))](https://www.kaggle.com/datasets/syedjaferk/top-200-youtubers-cleaned)|
